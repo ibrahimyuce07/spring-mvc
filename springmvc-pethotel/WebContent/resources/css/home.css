@@ -1,0 +1,50 @@
+body {
+	background-color: lightblue;
+	margin: 0 auto;
+}
+
+.container {
+	width: 100%;
+	text-align: center;
+	 margin: 0 auto;
+}
+
+h1 {
+	color: black;
+	text-align: center;
+	margin: auto;
+	text-shadow: aqua;
+}
+
+p {
+	font-family: verdana;
+	font-size: 20px;
+	text-align: center;
+}
+
+a:link, a:visited {
+	background-color: white;
+	color: black;
+	border: 2px solid green;
+	padding: 10px 20px;
+	text-align: center;
+	text-decoration: blink;
+	display: inline-block;
+  	font-weight: bold;
+  max-width:230px;
+  max-height:95px;
+   width: 160px;
+   margin: 0 auto;
+	
+}
+
+a:hover, a:active {
+	background-color: green;
+	color: white;
+}
+
+.userformlink {
+	text-align: center;
+	margin: 0 auto;
+}
+}
