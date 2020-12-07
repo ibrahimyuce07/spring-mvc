@@ -1,1 +1,2 @@
+
 <% response.sendRedirect("customer/list"); %>
